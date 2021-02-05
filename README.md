@@ -1,2 +1,9 @@
-# Unregistered-factories
-https://www.cto.moea.gov.tw/FactoryMCLA/web/information/list.php
+# 未登記工廠查處執行情形
+經濟部中部辦公室 - [特定工廠登記與為登記工廠專區](https://www.cto.moea.gov.tw/FactoryMCLA/web/information/list.php)
+
+時間|標題|檔案
+---|---|---
+2021-02-01|各縣市疑似未登記工廠相關查處執行情形(11001)|11001查處名單.xlsx  11001非屬工廠名單.xlsx
+2021-01-04|各縣市疑似未登記工廠相關查處執行情形(10912)|10912查處名單.xlsx  10912非屬工廠名單.xlsx
+2020-12-01|各縣市疑似未登記工廠相關查處執行情形(10911)|各縣市疑似未登記工廠相關查處執行情形截至1091130.pdf  查處名單.xlsx
+
